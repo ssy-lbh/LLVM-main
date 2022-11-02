@@ -1,0 +1,2 @@
+BUILTIN(__builtin_zynq16_max_qb, "sss", "") 
+BUILTIN(__builtin_zynq16_min_qb, "sss", "")
